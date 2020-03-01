@@ -1,4 +1,4 @@
-make
-./ns 62 62 80000 400
-./pv
-gnuplot plot_profiles -persistent
+#make
+./ns 62 62 80000 100
+#./pv
+#gnuplot plot_profiles -persistent
